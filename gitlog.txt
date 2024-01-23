@@ -1,0 +1,17 @@
+736e150 Merge pull request #1 from tazaugg/feature-tazaugg
+15f8fb3 added new.txt
+2b1ff5c hopowoeif
+ab49464 hopefully
+71d8d21 fixed changes
+81fc611 Merge branch 'features'
+430df30 add new features w text
+3ea147f commit new_feature
+150500e Merge branch 'features'
+6d04765 new file 1
+5b4870f new_features with changes
+a978440 add empty file
+a6b8947 ignore
+cedc7b4 readme commit
+a175a61 now file 2
+25cc54a just file 1
+a9237c9 create new files
